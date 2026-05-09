@@ -120,3 +120,6 @@ MANAGERDOMAIN= anymanager.io
 anymanager.io, A7496, DIRECT
 google.com, pub-3389025920703065, RESELLER, f08c47fec0942fa0
 google.com, pub-9058291854443881, RESELLER, f08c47fec0942fa0
+
+adpixis.com, 22951906221, DIRECT
+google.com, pub-1088508191391776, RESELLER, f08c47fec0942fa0
